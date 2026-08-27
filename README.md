@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sakshit Shivam
 
-<h3 align="center">A Computer Science Student | C Programmer | Aspiring Software Developer</h3>
+<h3 align="center">A BTech Student | C Programmer | Aspiring Software Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sakshiitshivam17-gif&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science student
+- 🎓 BTech Student
 - 🌱 Currently learning **C Programming** and **Data Structures & Algorithms**
 - 💻 Exploring **Git**, **GitHub**, and software development
 - 🚀 Building projects to improve my coding skills
